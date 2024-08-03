@@ -9,9 +9,6 @@ with st.sidebar:
 
 st.title('🎈 App Name')
 
-st.write('Hello world!')
-st.feedback("stars")
-
 input: Dict[str, str] = {
     "name": "Santosh",
     "location": "Pune"
