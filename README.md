@@ -40,6 +40,12 @@ npm run build
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-app-jxe6thwxf43qfvabwmrrlk.streamlit.app/)
 
 
+<p align="center">
+  <a href="https://app-app-jxe6thwxf43qfvabwmrrlk.streamlit.app/">
+     <img src="wiki/demo.gif" alt="demp" />
+  </a>
+</p>
+
 ## Project Structure
 
 ````
